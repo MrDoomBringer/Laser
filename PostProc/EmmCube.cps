@@ -29,7 +29,7 @@ properties = {
   finishBeep: false,
   rapidTravelXY: 2500,
   rapidTravelZ: 300,
-  laserEtch: "M106 S128",
+  laserEtch: "M106 S20",
   laserVaperize: "M106 S250",
   laserThrough: "M106 S250",
   laserOFF: "M107"
